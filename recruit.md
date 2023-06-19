@@ -137,6 +137,8 @@
 10. 그리고 그런 경쟁 상태를 예방하기 위한 뮤텍스와 세마포어는 각각 무엇인가요?
 ```
 [Datascientist 면접 질문](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/#group-contents-developers)
+
+[AI 면접 문제은행](https://github.com/boost-devs/ai-tech-interview)
 ### 최신 기술 동향
 - [21년 가트너 전략기술 트렌드](https://www.wedesignx.com/knowledge/2021-gartner-strategic-technology-trend-top-9)
 - [22년 가트너 전략기술 트렌드(영문)](https://www.gartner.com/en/newsroom/press-releases/2021-10-18-gartner-identifies-the-top-strategic-technology-trends-for-2022)
